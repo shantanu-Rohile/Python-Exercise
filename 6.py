@@ -1,4 +1,4 @@
-# Exercise 6 : 
+# Exercise 6 : Calculating Factorial with a Loop
 n=int (input("Type the number for factorial : "))
 def factorial(n) :
     if(n==0):

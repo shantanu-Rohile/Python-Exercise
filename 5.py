@@ -1,4 +1,4 @@
-# Exercise 5 :
+# Exercise 5 : Variable Swapping (The In-Place Method)
 
 a  = int (input("Type the for a : "))
 b = int (input("Type the for b : "))
